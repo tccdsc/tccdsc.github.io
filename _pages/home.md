@@ -19,4 +19,4 @@ aboutorg:
     title: "Scope"
     excerpt: "Our scope encompasses our vision to grow, thrive to be competitive and withstand a socially responsible worldview. "
 ---
-{% include aboutorg %}
+{% include feature_row id="aboutorg" %}
