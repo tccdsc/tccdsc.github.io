@@ -21,7 +21,6 @@ about:
     title: "Scope"
     excerpt: "Our scope encompasses our vision to grow, thrive to be competitive and withstand a socially responsible worldview. "
     *****
- 
 ---
 
 {% include about %}
