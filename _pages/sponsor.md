@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Sponsor Us"
-permalink: /
+permalink: /sponsor
 author_profile: false
 header:
   overlay_color: "#000"
