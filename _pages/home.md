@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/home-banner.png
-excerpt: <small>"University of Delhi"
+excerpt: University of Delhi
 aim:
   - image_path: "/assets/aim.jpg"
     title: "Aim"
