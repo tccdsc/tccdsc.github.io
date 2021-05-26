@@ -4,9 +4,9 @@ title: "Sponsor Us"
 permalink: /sponsor
 author_profile: false
 header:
-  #overlay_color: "#000"
-  #overlay_filter: "0.0"
-  overlay_image: "https://scontent-bom1-2.cdninstagram.com/v/t51.2885-15/e35/186893116_125565729557888_8257881633492404892_n.jpg?tp=1&_nc_ht=scontent-bom1-2.cdninstagram.com&_nc_cat=108&_nc_ohc=sYXnTXDv_9sAX8SoG2n&edm=AP_V10EBAAAA&ccb=7-4&oh=24c9a6ee9f1832b81b0838b190fcd335&oe=60B40040&_nc_sid=4f375e"
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: "https://user-images.githubusercontent.com/82879019/119615913-9e0e5300-be1d-11eb-8c5e-87cd27af038d.jpg"
   caption: "TCC Team 2021 - 2022"
 benefits:
   - image_path: "https://images.squarespace-cdn.com/content/v1/5486ebede4b06fdbf3d8475e/1564384175606-OR6U59R3G9B0GHPTA7NB/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/DSCF3627.jpg"
