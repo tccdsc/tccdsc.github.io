@@ -6,7 +6,7 @@ author_profile: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: "https://user-images.githubusercontent.com/82879019/119615913-9e0e5300-be1d-11eb-8c5e-87cd27af038d.jpg"
+  overlay_image: "/assets/spon-banner.jpg"
   caption: "TCC Team 2021 - 2022"
 benefits:
   - image_path: "https://images.squarespace-cdn.com/content/v1/5486ebede4b06fdbf3d8475e/1564384175606-OR6U59R3G9B0GHPTA7NB/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/DSCF3627.jpg"
@@ -19,5 +19,5 @@ benefits:
     title: "ACCESS TO OUR TALENT POOL"
     excerpt: "As a multidisciplinary society we provide unparalleled access to students studying from a range of educational backgrounds."
 ---
-Some test text.22334343434
+Some test text
 {% include feature_row id="benefits" %}
