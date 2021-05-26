@@ -5,7 +5,7 @@ permalink: /sponsor
 author_profile: false
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: "https://scontent-bom1-2.cdninstagram.com/v/t51.2885-15/e35/186893116_125565729557888_8257881633492404892_n.jpg?tp=1&_nc_ht=scontent-bom1-2.cdninstagram.com&_nc_cat=108&_nc_ohc=sYXnTXDv_9sAX8SoG2n&edm=AP_V10EBAAAA&ccb=7-4&oh=24c9a6ee9f1832b81b0838b190fcd335&oe=60B40040&_nc_sid=4f375e"
   caption: "TCC Team 2021 - 2022"
 benefits:
