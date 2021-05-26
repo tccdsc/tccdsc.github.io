@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/home-banner.png
-#excerpt: "The Consulting Club of Dyal Singh College, University of Delhi"
+excerpt: <p style="text-align:right;"><small>"University of Delhi"</small></p>
 aim:
   - image_path: "/assets/aim.jpg"
     title: "Aim"
