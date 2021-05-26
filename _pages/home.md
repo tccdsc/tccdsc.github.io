@@ -4,8 +4,8 @@ title: "The Consulting Club of Dyal Singh College"
 permalink: /
 author_profile: false
 header:
-  overlay_color: "#5e616c"
-  overlay_image: /assets/home-banner.jpg
+  overlay_color: "#000"
+  overlay_image: /assets/home-banner.png
   excerpt:"The Consulting Club of Dyal Singh College, University of Delhi"<br />
 aboutorg:
   - image_path: "/assets/aim.png"
