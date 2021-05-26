@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/home-banner.png
 #excerpt: "The Consulting Club of Dyal Singh College, University of Delhi"
 aim:
-  - image_path: "/assets/aim.png"
+  - image_path: "/assets/aim.jpg"
     title: "Aim"
     excerpt: "Work collectively as a team towards The Consulting Clubs’ prime objective of providing affordable and effective consulting services and facilitating mutual growth of clients and the team." 
 objective:
