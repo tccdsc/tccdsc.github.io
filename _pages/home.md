@@ -8,15 +8,19 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/home-banner.png
 #excerpt: "The Consulting Club of Dyal Singh College, University of Delhi"
-aboutorg:
+aim:
   - image_path: "/assets/aim.png"
     title: "Aim"
     excerpt: "Work collectively as a team towards The Consulting Clubs’ prime objective of providing affordable and effective consulting services and facilitating mutual growth of clients and the team." 
+objective:
   - image_path: "/assets/objective.png"
     title: "Objective"
     excerpt: "Inculcate a consulting culture amongst college students & consulting start ups, NPO’s, for-profits and business to help them function optimally."
+scope:
   - image_path: "/assets/scope.jpg"
     title: "Scope"
     excerpt: "Our scope encompasses our vision to grow, thrive to be competitive and withstand a socially responsible worldview. "
 ---
-{% include feature_row id="aboutorg" %}
+{% include feature_row id="aim" type="left" %}
+{% include feature_row id="objective" type="right" %}
+{% include feature_row id="scope" type="left" %}
