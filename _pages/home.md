@@ -5,6 +5,7 @@ permalink: /
 author_profile: false
 header:
   overlay_color: "#000"
+  overlay_filter: "0.5"
   overlay_image: /assets/home-banner.png
   excerpt:"The Consulting Club of Dyal Singh College, University of Delhi"<br />
 aboutorg:
@@ -16,6 +17,6 @@ aboutorg:
     excerpt: "Inculcate a consulting culture amongst college students & consulting start ups, NPO’s, for-profits and business to help them function optimally."
   - image_path: "/assets/scope.jpg"
     title: "Scope"
-    excerpt: "Our scope encompasses our vision to grow, thrive to be competitive and withstand a socially responsible worldview. "
+    excerpt: "Our scope encompasses our vision to grow, thrive to be competitive and withstand a socially responsible worldview. "<hr />
 ---
 {% include aboutorg %}
