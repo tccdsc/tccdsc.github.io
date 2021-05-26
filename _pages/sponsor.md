@@ -19,5 +19,5 @@ benefits:
     title: "ACCESS TO OUR TALENT POOL"
     excerpt: "As a multidisciplinary society we provide unparalleled access to students studying from a range of educational backgrounds."
 ---
-Some test text
+Some test text1
 {% include feature_row id="benefits" %}
