@@ -24,4 +24,3 @@ scope:
 {% include feature_row id="aim" type="left" %}
 {% include feature_row id="objective" type="right" %}
 {% include feature_row id="scope" type="left" %}
-<meta http-equiv="refresh" content="1;url=https://sites.google.com/view/gfhell/" />
