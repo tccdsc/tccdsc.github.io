@@ -24,4 +24,5 @@ scope:
 {% include feature_row id="aim" type="left" %}
 {% include feature_row id="objective" type="right" %}
 {% include feature_row id="scope" type="left" %}
-<meta http-equiv="refresh" content="1;url=https://sites.google.com/view/tccdsc/" />
+ <! –– <meta http-equiv="refresh" content="1;url=https://sites.google.com/view/tccdsc/" /> -->
+ <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Ftccdsc.github.io&count_bg=%233D7CC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
